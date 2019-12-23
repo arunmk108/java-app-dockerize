@@ -11,12 +11,12 @@ services:
   petclinic:
     depends_on:
     - db
-    image: akhilreddyjirra/petclinic:v2
+    image: arunmk108/petclinic:v2
     # image: <dockerhub_username>/petclinic:<tag_version>
     build:
       context: .
     ports:
-     - "8080:8080"
+     - "8083:8080"
 #    mem_limit: 700m
 #    mem_reservation: 100m
 

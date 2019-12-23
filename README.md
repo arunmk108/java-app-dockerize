@@ -1,4 +1,4 @@
-## Docker-PetClinic
+## Dockerize a Springboot Java Application
 >Docker and Docker-Compose should be installed before execution the below commands
 
 ###### This applaiction consists of petclinic jar file which is generatoied after the `mvn package` and  database `mysql`

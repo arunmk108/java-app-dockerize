@@ -19,7 +19,7 @@
 > __Tag_version:__  The docker build tag version is maintaied in the [docker-compose](https://gitlab.com/akhilreddyjirra/docker-petclinic/blob/master/docker-compose.yml) file under the section of 
 `image: <dockerhub_username>/petclinic:<tag_version>`
 
-You can then access petclinic here: http://localhost:8080/
+You can then access petclinic here: http://localhost:8083/
 
 ![Alt Text](https://cloud.githubusercontent.com/assets/838318/19727082/2aee6d6c-9b8e-11e6-81fe-e889a5ddfded.png)
 
